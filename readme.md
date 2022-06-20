@@ -1,4 +1,4 @@
-# Learn React: Behind The Scenes Pt1
+# Learn React: Class-based Components
 
 ##### Course:
 
